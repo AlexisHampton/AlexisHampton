@@ -1,6 +1,6 @@
 - Hi, I’m @AlexisHampton
 - I’m interested in creating my own games!
-- I’m currently learning C#, Unity, and Java.
+- I’m currently learning C#, Godot, and Java.
 
 <!---
 AlexisHampton/AlexisHampton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
