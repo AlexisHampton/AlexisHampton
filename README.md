@@ -1,6 +1,6 @@
 # Hello, I'm Alexis Hampton
 
-I make games in Godot using C#. I mostly post my finished games/projects here. But I put my (private) work-in-progress projects on my [personal account](https://github.com/xXClawtheWolfXx) 
+I make games in Godot using C#. I mostly post my finished games/projects here.
 You can see a better overview of my projects on my [portfolio](https://alexishampton-27b01.web.app/).
 
 
